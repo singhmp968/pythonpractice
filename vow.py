@@ -6,7 +6,7 @@ li2=['B','C','D','F','G','H','J','K','L','M','N','P','Q','R',
 if x in li:
     print("Vowel")
 elif x in li2:
-    print("Constant")
+    print("Consonant")
 else:
     print("invalid")
       
