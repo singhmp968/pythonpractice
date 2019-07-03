@@ -1,6 +1,4 @@
-a=int(input())
-b=int(input())
-c=int(input())
+a,b,c=input().split()
 if(a>=b and b>=c):
     print(a)
 elif(b>=a and b>=c):
