@@ -8,6 +8,6 @@ while cu!=0:
     cu=cu//10
     
 if(rem==x):
-    print("Yes")
+    print("yes")
 else:
-    print("No")
+    print("no")
