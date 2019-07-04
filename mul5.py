@@ -1,5 +1,5 @@
 x=int(input())
-su=5
-for i in range(1,x+1,1):
-    a=su*i
+su=1
+for i in range(1,6,1):
+    a=x*i
     print(a,end=' ')
