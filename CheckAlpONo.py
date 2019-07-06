@@ -1,7 +1,7 @@
-x=str(input())
+x1=str(input())
 s1=False
 s2=False
-for i in x:
+for i in x1:
     if i.isalpha():
         s1=True
     if i.isdigit():
