@@ -1,0 +1,5 @@
+li=list(map(int,input().split()))
+min1=min(li)
+print(min1)
+
+        
