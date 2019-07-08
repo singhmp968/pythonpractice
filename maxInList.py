@@ -1,3 +1,3 @@
 li=list(map(int,input().split()))
-maxi=max(li)
+maxi=min(li)
 print(maxi)
